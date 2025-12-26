@@ -1,4 +1,3 @@
-# Gender-Identification-using-CNN-Kaggle
 # Gender Identification using 5-Layer CNN
 
 ## Project Overview
